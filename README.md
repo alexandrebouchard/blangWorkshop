@@ -1,0 +1,1 @@
+Rendered slides available at: [https://stat.ubc.ca/~bouchard/pub/blangWorkshopSlides.html](https://stat.ubc.ca/~bouchard/pub/blangWorkshopSlides.html)
